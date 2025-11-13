@@ -10,11 +10,7 @@
 ###### **Réseau neuronal sans bibliothèque dédiée (My-first-IA)**
 
 - **IA Prévisionnelle** prédisant des goûts cinématographiques en fonction d'un profil
-- Le Programme peut également exécuter plusieurs IA en simultané grâce au 
-
-       **multi-threading** ou au **multi-processing**, afin d'augmenter la
-
-       fiabilité/rapidité d'obtention des résultats.
+- Le Programme peut également exécuter plusieurs IA en simultané grâce au **multi-threading** ou au **multi-processing**, afin d'augmenter la fiabilité/rapidité d'obtention des résultats.
 
 ###### **Générateur de réseaux neuronaux en C++ (Deep-Learning-Generator)**
 
